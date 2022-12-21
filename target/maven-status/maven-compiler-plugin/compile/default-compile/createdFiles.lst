@@ -1,0 +1,8 @@
+org\example\pageObjects\P01_RegistrationPage.class
+org\example\pageObjects\P05_NotebookPage.class
+org\example\database\DatabaseConnection.class
+org\example\pageObjects\P03_HomePage.class
+org\example\pageObjects\P06_CheckOutPage.class
+org\example\pageObjects\P02_LoginPage.class
+org\example\pageObjects\PageBase.class
+org\example\pageObjects\P04_ShoesPage.class
